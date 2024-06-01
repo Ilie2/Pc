@@ -1,0 +1,6 @@
+INSERT INTO products (name,price,image) VALUES
+("Mouse Gaming RAZER Viper Mini",103,"images-0/product-2.jpg"),
+
+
+ALTER TABLE table_name
+ADD column_name datatype; 
